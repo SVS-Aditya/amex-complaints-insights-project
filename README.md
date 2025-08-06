@@ -99,15 +99,9 @@ From raw public data → business-ready dashboard & predictions.
 - **CFPB Consumer Complaint Database**  
   [https://www.consumerfinance.gov/data-research/consumer-complaints/](https://www.consumerfinance.gov/data-research/consumer-complaints/)
 
----
+-- **Customer Churn Dataset**  
+  [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
-## About
-
-Created by **Aditya S V S**  
-🎯 Data Analyst | Python | SQL | NLP | BI Tools  
-🔗 [LinkedIn](#) | [Portfolio](#) | [Email](#)
-
----
 
 ## License
 
