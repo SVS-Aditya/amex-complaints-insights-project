@@ -35,14 +35,7 @@ This project aligns with real-world job functions like:
 ---
 
 ## Project Structure
-amex-complaints-insights-project/
-├── data/ # Final cleaned dataset with sentiment
-├── notebooks/ # Jupyter notebooks for each pipeline step
-├── outputs/ # Models, predictions, and exports
-├── dashboard/ # Power BI dashboard files (.pbix + PDF)
-├── scripts/ # Optional scripts for simulated automation
-└── README.md # You're here!
-
+<pre> <code> ```bash amex-complaints-insights-project/ ├── data/ # Final cleaned dataset with sentiment ├── notebooks/ # Jupyter notebooks for each pipeline step ├── outputs/ # Models, predictions, and exports ├── dashboard/ # Power BI dashboard files (.pbix + PDF) ├── scripts/ # Optional scripts for simulated automation └── README.md # You're here! ``` </code> </pre>
 ## Power BI Dashboard Overview
 
 Visuals included:
