@@ -51,7 +51,7 @@ Visuals included:
 - Sentiment Breakdown by Issue
 - Timely vs Non-Timely Responses (Grouped)
 - Channel Distribution (Donut Chart)
-
+  <img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/cad06788-bdeb-422b-af87-d0468914d870" />
 The dashboard was built using **Power BI (PBIX)** and exported as **PDF** for easy viewing.
 
 ## Machine Learning Models
